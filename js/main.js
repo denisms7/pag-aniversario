@@ -5,8 +5,6 @@ confetti.render();
 
 const campo = document.getElementById('aniversario')
 
-campo.innerHTML = 'teste'
-
 const aniversario = new Date("May 6, 2023 00:00:01");
 const tempoAteAniversario = aniversario.getTime()
 
